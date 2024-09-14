@@ -99,7 +99,7 @@ def create_scatter_plot(dataframe, x_col, y_col, img_save_path = None ):
 
     print("Scatter plot saved as 'scatter_plot.png'.")
 
-
+    return plt
 
 
 if __name__ == '__main__':

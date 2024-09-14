@@ -64,4 +64,3 @@ def test_plots():
     os.remove(file_path) 
     os.remove('data/test_scatter_polars.png')
     os.remove('data/test_histogram_polars.png')
-    
