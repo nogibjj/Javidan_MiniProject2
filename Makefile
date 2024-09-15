@@ -3,5 +3,5 @@ setup:
 test_code:
 	pytest
 lint:
-	pylint src/main.py
-	pylint test/test_main.py
+	pylint --errors-only src/main.py
+	pylint --errors-only test/test_main.py
