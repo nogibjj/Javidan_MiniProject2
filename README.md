@@ -15,10 +15,16 @@ This project automatically generates csv with the random data each time it runs.
 ## Visualizations
 
 - **Histogram**:  
-  ![Histogram]
+  ![Histogram](https://github.com/nogibjj/Javidan_MiniProject2/blob/3616a6f2e6f26596082a2a0bc63e253e4d74f838/data/histogram.png)
   
-- **Line Graph**:  
-  ![Line Graph]
+
+
+- **Scatter Plot**:  
+  ![ScatterPlot] (https://github.com/nogibjj/Javidan_MiniProject2/blob/3616a6f2e6f26596082a2a0bc63e253e4d74f838/data/scatter_plot.png)
+
+
+## Summary Statistics Report
+- [Summary Statistics Report (PDF)](https://github.com/nogibjj/Javidan_MiniProject2/blob/3616a6f2e6f26596082a2a0bc63e253e4d74f838/data/main.pdf)
 
 ## Requirements
 
